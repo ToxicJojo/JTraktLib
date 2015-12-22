@@ -1,7 +1,8 @@
 package oauth;
 
 /**
- * Represents the credentials needed to access the trakt api.
+ * Represents the credentials needed to access the trakt API.
+ * Credentials are valid for 3 months and should be refreshed prior to that.
  * 
  * @author Jojo
  *
